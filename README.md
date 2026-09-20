@@ -9,7 +9,7 @@
 
 <h3>MS CS @ UW–Madison &nbsp;•&nbsp; Ex-Software Engineer @ Optum</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44CFF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Jahnavi!;Building+in+NLP%2C+LLMs+%26+AI+agents;Exploring+ML+%2B+systems+%26+backend+spaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44CFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I%27m+Jahnavi%21;Building+in+NLP%2C+LLMs+%26+AI+agents;Exploring+ML+%2B+systems+%26+backend+spaces" alt="Typing SVG" />
 
 </div>
 
