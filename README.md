@@ -1,5 +1,7 @@
 <!-- ═════════════ HEADER ═════════════ -->
-<img src="assets/banner.svg" width="100%" alt="Jahnavi Sunchu"/>
+<p align="center">
+  <img src="assets/banner.svg" width="560" alt="Jahnavi Sunchu"/>
+</p>
 
 <br/>
 
@@ -11,8 +13,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
 <!-- ═════════════ ABOUT ═════════════ -->
 ## About Me
 
@@ -21,8 +21,6 @@
 - Currently into **ML, NLP** and **backend systems**
 - Research: I worked on recommender systems and personalization, and the work is [published here](https://www.sciencedirect.com/science/article/abs/pii/S0950584926000509?via%3Dihub).
 - Looking for **full-time SWE / ML roles starting May 2027**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═════════════ TECH STACK ═════════════ -->
 ## Tech Stack
@@ -66,22 +64,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
 <!-- ═════════════ PINNED PROJECTS ═════════════ -->
 ## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/jsunchu01/multimodal-semantic-search">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsunchu01&repo=multimodal-semantic-search&theme=radical&hide_border=true&border_radius=12" alt="multimodal-semantic-search"/>
+  <img src="assets/card-multimodal-search.svg" width="270" alt="Multimodal Search: answers questions about PDFs and verifies every number"/>
 </a>
 <a href="https://github.com/jsunchu01/EfficientPIE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsunchu01&repo=EfficientPIE&theme=radical&hide_border=true&border_radius=12" alt="EfficientPIE"/>
+  <img src="assets/card-efficientpie.svg" width="270" alt="EfficientPIE: tests an AI model that predicts whether pedestrians will cross"/>
 </a>
-
-<a href="https://github.com/jsunchu01/Annotation-preprint">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsunchu01&repo=Annotation-preprint&theme=radical&hide_border=true&border_radius=12" alt="Annotation-preprint"/>
+<a href="https://github.com/jsunchu01/annotation-outline">
+  <img src="assets/card-annotation.svg" width="270" alt="ANNOTATION: recommends tags for Stack Overflow and Code Review questions"/>
 </a>
 
 </div>
