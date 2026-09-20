@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 80" width="270" height="80" role="img" aria-label="Let's connect on LinkedIn">
+  <defs>
+    <style>
+      :root { --ink: #111318; --paper: #ffffff; --blush: #F9A8D4; --steam: #8B8FA3; }
+      @media (prefers-color-scheme: dark) {
+        :root { --ink: #E6EDF3; --paper: #0D1117; --steam: #9AA3B2; }
+      }
+      .side { fill: var(--ink); }
+      .face { fill: var(--paper); stroke: var(--ink); stroke-width: 2.5; }
+      .label { font-family: 'Courier New', Courier, monospace; font-weight: 700; font-size: 15px; letter-spacing: 2px; fill: var(--ink); }
+      .line { stroke: var(--ink); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+      .press { animation: press 2.8s ease-in-out infinite; }
+      .cup { animation: bob 3.2s ease-in-out infinite; }
+      .steam { fill: none; stroke: var(--steam); stroke-width: 3; stroke-linecap: round; opacity: 0; animation: steam 2.4s ease-in-out infinite; }
+      .s2 { animation-delay: -0.8s; }
+      .s3 { animation-delay: -1.6s; }
+      .blink { transform-box: fill-box; transform-origin: center; animation: blink 4s infinite; }
+      @keyframes press { 0%, 55%, 100% { transform: translate(0, 0); } 70%, 85% { transform: translate(-2px, 2px); } }
+      @keyframes steam { 0% { opacity: 0; transform: translateY(6px); } 30% { opacity: .95; } 100% { opacity: 0; transform: translateY(-8px); } }
+      @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
+      @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+    </style>
+  </defs>
+
+  <!-- side faces (3D depth) -->
+  <polygon class="side" points="18,10 18,54 6,66 6,22"/>
+  <polygon class="side" points="18,54 188,54 176,66 6,66"/>
+
+  <!-- front face, moves like a pressed button -->
+  <g class="press">
+    <rect class="face" x="19.25" y="11.25" width="168.5" height="41.5"/>
+    <text class="label" x="103.5" y="37" text-anchor="middle">LET'S CONNECT</text>
+  </g>
+
+  <!-- coffee cup, outside the button -->
+  <g transform="translate(212 14) scale(0.7)"><g class="cup">
+    <path class="steam"    d="M14,36 q-5,-6 0,-12 q5,-6 0,-12"/>
+    <path class="steam s2" d="M24,36 q-5,-6 0,-12 q5,-6 0,-12"/>
+    <path class="steam s3" d="M34,36 q-5,-6 0,-12 q5,-6 0,-12"/>
+    <ellipse class="line" cx="24" cy="70" rx="26" ry="5" fill="var(--paper)"/>
+    <path class="line" d="M42,48 h5 a7,7 0 0 1 0,14 h-6" fill="none"/>
+    <path class="line" d="M4,42 h40 v14 a14,14 0 0 1 -14,14 h-12 a14,14 0 0 1 -14,-14 z" fill="var(--paper)"/>
+    <ellipse class="line" cx="24" cy="42" rx="20" ry="4" fill="var(--ink)" stroke-width="2"/>
+    <g class="blink"><circle cx="15" cy="56" r="1.8" fill="var(--ink)"/><circle cx="33" cy="56" r="1.8" fill="var(--ink)"/></g>
+    <path d="M21,60 q3,3 6,0" fill="none" stroke="var(--ink)" stroke-width="1.6" stroke-linecap="round"/>
+    <ellipse cx="11" cy="61" rx="3" ry="1.8" fill="var(--blush)"/>
+    <ellipse cx="37" cy="61" rx="3" ry="1.8" fill="var(--blush)"/>
+  </g></g>
+</svg>
