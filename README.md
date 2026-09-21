@@ -70,13 +70,13 @@
 <div align="center">
 
 <a href="https://github.com/jsunchu01/multimodal-semantic-search">
-  <img src="assets/card-multimodal-search.svg" width="270" alt="Multimodal Search: answers questions about PDFs and verifies every number"/>
+  <img src="assets/card-multimodal-search.svg" width="270" alt="Multimodal Search: Designed a multimodal RAG pipeline that answers questions over large, visually dense PDFs (charts & tables) that are typically hard to parse,"/>
 </a>
 <a href="https://github.com/jsunchu01/EfficientPIE">
-  <img src="assets/card-efficientpie.svg" width="270" alt="EfficientPIE: tests an AI model that predicts whether pedestrians will cross"/>
+  <img src="assets/card-efficientpie.svg" width="270" alt="Intent Prediction in Autonomous Driving Systems: Reconstructed a lightweight convolution architecture for pedestrian crossing-intent prediction in autonomous driving systems, achieving sub-millisecond (0.21ms) inference suitable for real-time ADAS deployment."/>
 </a>
 <a href="https://github.com/jsunchu01/annotation-outline">
-  <img src="assets/card-annotation.svg" width="270" alt="ANNOTATION: recommends tags for Stack Overflow and Code Review questions"/>
+  <img src="assets/card-annotation.svg" width="270" alt="Tag Recommendation System:  Designed a transformer-based tag recommendation system for posts on software information sites, improving content searchability and organizability"/>
 </a>
 
 </div>
