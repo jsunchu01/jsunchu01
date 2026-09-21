@@ -9,7 +9,7 @@
 
 <h3>MS CS @ UW–Madison &nbsp;•&nbsp; Ex-Software Engineer @ Optum</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B44CFF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I%27m+Jahnavi%21;Building+in+NLP%2C+LLMs+%26+AI+agents;Exploring+ML+%2B+systems+%26+backend+spaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=400&color=B44CFF&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Hi%2C+I%27m+Jahnavi%21;Looking+for+full-time+new+grad+SWE%2FML+roles+%282027%29;Currently+into+NLP%2C+LLMs+%26+AI+Agents;Exploring+ML+%2B+Systems+%26+Backend+spaces" alt="Typing SVG" />
 
 </div>
 
@@ -18,8 +18,8 @@
 
 - MS Computer Science student at **UW–Madison**
 - Former Software Engineer at **Optum**
-- Currently into **ML, NLP** and **backend systems**
-- Research: I worked on recommender systems and personalization, and the work is [published here](https://www.sciencedirect.com/science/article/abs/pii/S0950584926000509?via%3Dihub).
+- Currently into **NLP, AI Agents** and **ML + Systems**
+- Research: Recommender systems and personalization. Published in *Information and Software Technology* (2026): "Transformer-aware Sequence-to-Sequence Network for Personalized Tag Recommendation in Software Information Sites" ([link](https://www.sciencedirect.com/science/article/abs/pii/S0950584926000509?via%3Dihub)).
 - Looking for **full-time SWE / ML roles starting May 2027**
 
 <!-- ═════════════ TECH STACK ═════════════ -->

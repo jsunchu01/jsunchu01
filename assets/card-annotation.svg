@@ -1,24 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 236" width="300" height="236" role="img" aria-label="ANNOTATION: recommends tags for questions on Stack Overflow and Code Review">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 290" width="300" height="290" role="img" aria-label="ANNOTATION: transformer-based tag recommendation system for posts on software information sites">
   <!-- 3D edge -->
-  <rect x="10" y="16" width="272" height="214" rx="12" fill="#A78BFA"/>
+  <rect x="10" y="16" width="272" height="268" rx="12" fill="#A78BFA"/>
   <!-- card face -->
-  <rect x="20" y="6" width="272" height="214" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.5"/>
+  <rect x="20" y="6" width="272" height="268" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.5"/>
 
   <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
     <text x="40" y="44" font-size="20" font-weight="800" fill="#1F2328">ANNOTATION</text>
     <rect x="40" y="53" width="36" height="3" rx="1.5" fill="#A78BFA"/>
 
     <g font-size="12.5" fill="#57606A">
-      <text x="40" y="84">Recommends tags for questions on</text>
-      <text x="40" y="102">Stack Overflow and Code Review.</text>
-      <text x="40" y="120">Uses the post, its comments and</text>
-      <text x="40" y="138">the author's profile as context.</text>
+      <text x="40" y="84">Designed a transformer-based tag</text>
+      <text x="40" y="102">recommendation system for posts on</text>
+      <text x="40" y="120">software information sites,</text>
+      <text x="40" y="138">improving content searchability and</text>
+      <text x="40" y="156">organizability.</text>
     </g>
 
-    <line x1="40" y1="158" x2="272" y2="158" stroke="#E5E7EB" stroke-width="1"/>
+    <line x1="40" y1="212" x2="272" y2="212" stroke="#E5E7EB" stroke-width="1"/>
     <g font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#7C3AED">
-      <text x="40" y="182">CodeBERT · GPT-2 · Seq2Seq</text>
-      <text x="40" y="198">Adam · Stack Overflow data</text>
+      <text x="40" y="236">Recommender Systems</text>
+      <text x="40" y="252">Personalization · Cross-Attention</text>
     </g>
   </g>
 </svg>
